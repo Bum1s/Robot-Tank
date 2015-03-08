@@ -16,6 +16,9 @@
 12. Photoresitor
 13. 1x10k Ohm (for photoresitor) and 2x220 Ohm (for LED's)resistors
 
-#Scheme
+#Procject scheme
 
 ![alt tag](https://github.com/Bum1s/Robot-Tank/blob/master/images/robot_scheme.jpg)
+
+#Tank shooting mechanism
+![alt tag](https://github.com/Bum1s/Robot-Tank/blob/master/images/shoot_model.jpg)
