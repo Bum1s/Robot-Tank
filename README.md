@@ -20,3 +20,6 @@
 
 #Tank shooting mechanism
 ![alt tag](https://github.com/Bum1s/Robot-Tank/blob/master/images/shoot_model.jpg)
+
+#Inside tank
+![alt tag](https://github.com/Bum1s/Robot-Tank/blob/master/images/tank_inside.jpg)
