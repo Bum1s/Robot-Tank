@@ -4,17 +4,18 @@
 
 1. RC tank scale 1:16 (5 DC motors: 2 for driving, 1 for barrel, 1 for turrel, 1 for shooting)
 2. Raspberri Pi 2
-3. Arduino Uno
-4. Arduino Motor Shield
-5. Ultrasonic distance sensor (HC-SR04)
-6. Batteries 7.2V 1600mAH (for Arduino), 5V 10000mAh (for Raspberri Pi 2)
-7. Bluetooth (HC-05)
-8. L293D (for barrel and turrel control (bi-directionally)
-9. Transistor P2N2222 (for shooting)
-10. Photoresitor
-11. 1x10k Ohm (for photoresitor) and 2x220 Ohm (for LED's)resistors
-12. 4 LED (2 red, 2 white)
-13. Wires and Breadboard
+3. Raspberry Pi 5MP camera
+4. Arduino Uno
+5. Arduino Motor Shield
+6. Ultrasonic distance sensor (HC-SR04)
+7. Batteries 7.2V 1600mAH (for Arduino), 5V 10000mAh (for Raspberri Pi 2)
+8. Bluetooth (HC-05)
+9. L293D (for barrel and turrel control (bi-directionally)
+10. Transistor P2N2222 (for shooting)
+11. Photoresitor
+12. 1x10k Ohm (for photoresitor) and 2x220 Ohm (for LED's)resistors
+13. 4 LED (2 red, 2 white)
+14. Wires and Breadboard
 
 #Procject scheme
 
