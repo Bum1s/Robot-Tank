@@ -25,3 +25,6 @@
 
 #Inside the tank
 ![alt tag](https://github.com/Bum1s/Robot-Tank/blob/master/images/tank_inside.JPG)
+
+#Video
+[![Robot tank](http://img.youtube.com/vi/ERi70ijL3AA/0.jpg)](https://youtu.be/ERi70ijL3AA)
